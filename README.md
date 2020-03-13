@@ -2,14 +2,10 @@
 
 Welcome to my website.
 
-### Markdown
-
 Checkout a few of my projects here
 
 ```markdown
-What up!
+my behance page (https://www.behance.net/ananthacp685a)
 ```
-
-For more details see my behance page (https://www.behance.net/ananthacp685a).
 
 ### Thanks!
