@@ -37,3 +37,10 @@
   font-size:16px;
   font-family: "Montserrat", montserrat, serif;
 }
+
+#hero-shot
+{
+  position: relative;
+  top: 0;
+  z-index:10;
+}
