@@ -38,9 +38,11 @@
   font-family: "Montserrat", montserrat, serif;
 }
 
-#hero-shot
-{
+/*-----navigation Bar------*/
+#slider
+{ 
   position: relative;
   top: 0;
   z-index:10;
+  color:#720046!important;
 }
