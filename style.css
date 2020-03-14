@@ -39,7 +39,7 @@
 }
 
 /*-----navigation Bar------*/
-#slider
+#carousel-item active
 { 
   position: relative;
   top: 0;
