@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="344px" height="406px" viewBox="0 0 344 406" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Me" transform="translate(-205.000000, -148.000000)">
+            <g id="Group" transform="translate(205.000000, 147.500000)">
+                <path d="M21.63,288.241 L183.076,331.5 L0,331.5 L21.63,288.241 Z M165.842,151.183 L256,331.5 L202.741,331.5 L165.842,151.183 Z M128,75.5 L156.235,131.971 L26.758,277.983 L128,75.5 Z" id="Combined-Shape" fill="#000000"></path>
+                <text id="my-strengths" transform="translate(333.500000, 203.500000) rotate(-90.000000) translate(-333.500000, -203.500000) " font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" fill="#000000">
+                    <tspan x="272" y="209.5">my strengths</tspan>
+                </text>
+                <text id="gaps-for-learning" font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" fill="#000000">
+                    <tspan x="116" y="402.5">gaps for learning</tspan>
+                </text>
+                <text id="my-scope-for-creativ" font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" fill="#000000">
+                    <tspan x="189" y="17.5">my scope</tspan>
+                    <tspan x="189" y="39.5">for creativity</tspan>
+                </text>
+                <line x1="285.928571" y1="76.7142857" x2="333.071429" y2="76.7142857" id="Line" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="309.5" y1="55" x2="309.5" y2="355" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="303" y1="80.7857143" x2="316" y2="73.5" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="143" y1="34.2857143" x2="156" y2="27" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="178" y1="108.285714" x2="191" y2="101" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="303" y1="334.785714" x2="316" y2="327.5" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="196" y1="368.785714" x2="209" y2="361.5" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="176" y1="368.785714" x2="189" y2="361.5" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="163.5" y1="0.5" x2="137.5" y2="55.5" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="207.5" y1="76.5" x2="171" y2="120" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="141" y1="9" x2="200.5" y2="139.5" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="285.928571" y1="330.714286" x2="333.071429" y2="330.714286" id="Line" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="171" y1="365.5" x2="218.142857" y2="365.5" id="Line-Copy" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="202.5" y1="355" x2="202" y2="377.5" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="182.5" y1="355" x2="182" y2="377.5" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>
