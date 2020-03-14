@@ -7,13 +7,13 @@
         <g id="About-Me" transform="translate(-205.000000, -148.000000)">
             <g id="Group" transform="translate(205.000000, 147.500000)">
                 <path d="M21.63,288.241 L183.076,331.5 L0,331.5 L21.63,288.241 Z M165.842,151.183 L256,331.5 L202.741,331.5 L165.842,151.183 Z M128,75.5 L156.235,131.971 L26.758,277.983 L128,75.5 Z" id="Combined-Shape" fill="#000000"></path>
-                <text id="my-strengths" transform="translate(333.500000, 203.500000) rotate(-90.000000) translate(-333.500000, -203.500000) " font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" fill="#000000">
-                    <tspan x="272" y="209.5">my strengths</tspan>
+                <text id="my-strengths" transform="translate(333.500000, 205.500000) rotate(-90.000000) translate(-333.500000, -205.500000) " font-family="Montserrat-ExtraLight, Montserrat" font-size="18" font-weight="300" fill="#000000">
+                    <tspan x="274" y="211.5">my strengths</tspan>
                 </text>
-                <text id="gaps-for-learning" font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" fill="#000000">
+                <text id="gaps-for-learning" font-family="Montserrat-ExtraLight, Montserrat" font-size="18" font-weight="300" fill="#000000">
                     <tspan x="116" y="402.5">gaps for learning</tspan>
                 </text>
-                <text id="my-scope-for-creativ" font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" fill="#000000">
+                <text id="my-scope-for-creativ" font-family="Montserrat-ExtraLight, Montserrat" font-size="18" font-weight="300" fill="#000000">
                     <tspan x="189" y="17.5">my scope</tspan>
                     <tspan x="189" y="39.5">for creativity</tspan>
                 </text>
