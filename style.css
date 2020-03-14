@@ -1,4 +1,4 @@
-
+r
 /*-----navigation Bar------*/
 #nav-bar
 { 
@@ -39,7 +39,7 @@
 }
 
 /*-----navigation Bar------*/
-#carousel-item active
+#headerSlider
 { 
   position: relative;
   top: 0;
